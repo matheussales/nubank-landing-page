@@ -1,0 +1,12 @@
+node_modules
+.next
+.prettierignore
+.eslintignore
+tsconfig.json
+README.md
+package-lock.json
+package.json
+LICENSE
+.prettierrc.json
+.gitignore
+.editorconfig
